@@ -1,0 +1,23 @@
+[{
+    "image":"images/h3.jpg"
+    
+},
+{
+    "image":"images/h6.jpg"
+},
+{
+    "kitchen":[{
+        "image":"images/ka1.webp"
+    },
+    {
+        "image":"images/ka2.webp"
+    }]
+},
+{
+    "health":[{
+        "image":"images/h1.webp"
+    },
+    {
+    "image":"images/h2.webp"
+    }]
+}]

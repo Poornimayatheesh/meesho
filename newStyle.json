@@ -1,0 +1,23 @@
+[{
+    "image":"images/a1.webp"
+    
+},
+{
+    "image":"images/a2.webp"
+},
+{
+    "footware":[{
+        "image":"images/f1.webp"
+    },
+    {
+        "image":"images/f2.webp"
+    }]
+},
+{
+    "electronics":[{
+        "image":"images/e1.webp"
+    },
+    {
+    "image":"images/e3.webp"
+    }]
+}]
